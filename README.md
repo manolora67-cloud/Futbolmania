@@ -1,2 +1,2 @@
 # Futbolmania
-Tienda deportiva futbolmania
+Tienda deportiva futbolmania.
